@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "build": "mvn clean package",
+    "go": "mvn exec:java"
+  }
+}
